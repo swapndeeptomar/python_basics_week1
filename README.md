@@ -1,12 +1,12 @@
-🐍 Python Fundamentals & OOP Practice Repository
+Python Fundamentals & OOP Practice Repository
 
 This repository contains structured Python practice code covering:
 
-✅ Basic Python concepts
+ Basic Python concepts
 
-✅ Object-Oriented Programming (OOP)
+ Object-Oriented Programming (OOP)
 
-✅ Test cases for validation
+ Test cases for validation
 
 It is designed for revision, practice, and strengthening core Python fundamentals.
 
@@ -108,4 +108,5 @@ VS Code / Any Code Editor
 Basic understanding of Python syntax
 
 👨‍💻 Author
+
 Swapndeep Tomar
