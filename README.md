@@ -87,7 +87,7 @@ Write clean and testable code
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/swapndeeptomar/python_basics_week1.git
 
 Navigate to the project directory:
 
