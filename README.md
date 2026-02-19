@@ -10,16 +10,6 @@ This repository contains structured Python practice code covering:
 
 It is designed for revision, practice, and strengthening core Python fundamentals.
 
-📂 Repository Structure
-📦 Python-Practice-Repo
- ┣ 📂 exercises
- ┃ ┗ 📜 Basic Python programs
- ┣ 📂 oops
- ┃ ┗ 📜 Object-Oriented Programming programs
- ┣ 📂 test_cases
- ┃ ┗ 📜 Test cases for validating programs
- ┗ 📜 README.md
-
 📁 Folder Details
 1️⃣ exercises/
 
